@@ -1,2 +1,5 @@
 example_git
 ===========
+
+Cool!
+

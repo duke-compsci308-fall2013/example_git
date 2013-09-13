@@ -1,4 +1,4 @@
-example_git
+Better name needed
 ===========
 
 Cool!
